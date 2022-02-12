@@ -29,9 +29,9 @@ cano[0] = {
 
 // Carregando sons
 var fly = new Audio();
-fly.src = "LOLI GEMENDO 2.0.mp4"
+fly.src = ""
 var scor = new Audio();
-scor.src = "sounds/score.mp3"
+scor.src = "sounds/loli.mp3"
 	
 	// Captura de tecla
 	document.addEventListener("keydown",voa);
